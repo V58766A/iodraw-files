@@ -38,10 +38,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-12" value="Critic评估联合状态-动作价值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="780" width="270" height="60" as="geometry" />
+          <mxGeometry x="55" y="590" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wMM_qTpo3VhwTvLpSRT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-14" target="-wMM_qTpo3VhwTvLpSRT-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-14" value="PPO更新Actor与Critic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="920" width="270" height="60" as="geometry" />
+          <mxGeometry x="55" y="700" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wMM_qTpo3VhwTvLpSRT-18" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="830" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
