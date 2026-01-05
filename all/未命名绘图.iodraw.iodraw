@@ -31,7 +31,7 @@
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJUh7n_6WNUrc15ecdQ3-8" target="HJUh7n_6WNUrc15ecdQ3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HJUh7n_6WNUrc15ecdQ3-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJUh7n_6WNUrc15ecdQ3-11">
+        <mxCell id="HJUh7n_6WNUrc15ecdQ3-12" value="满足迭代终止条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJUh7n_6WNUrc15ecdQ3-11">
           <mxGeometry x="0.125" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
