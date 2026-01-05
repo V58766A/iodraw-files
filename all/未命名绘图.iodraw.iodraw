@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-6" value="获取个智能体局部观测O" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="360" width="270" height="60" as="geometry" />
+          <mxGeometry x="55" y="280" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-8" target="-wMM_qTpo3VhwTvLpSRT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-8" value="Actor根据状态选择动作（优先未覆盖栅格）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="500" width="270" height="60" as="geometry" />
+          <mxGeometry x="55" y="380" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-10" target="-wMM_qTpo3VhwTvLpSRT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-10" value="环境执行动作，更新覆盖状态与奖励r" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="640" width="270" height="60" as="geometry" />
+          <mxGeometry x="55" y="480" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-12" target="-wMM_qTpo3VhwTvLpSRT-14">
           <mxGeometry relative="1" as="geometry" />
