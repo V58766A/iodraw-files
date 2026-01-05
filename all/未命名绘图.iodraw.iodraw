@@ -10,13 +10,14 @@
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-wMM_qTpo3VhwTvLpSRT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="360" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="-wMM_qTpo3VhwTvLpSRT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-2" target="-wMM_qTpo3VhwTvLpSRT-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-2" value="初始化环境、栅格地图、智能体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="220" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wMM_qTpo3VhwTvLpSRT-6" value="获取个智能体局部观测O" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="360" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
