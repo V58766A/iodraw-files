@@ -47,10 +47,21 @@
           <mxGeometry x="120" y="700" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-18" target="-wMM_qTpo3VhwTvLpSRT-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="860" />
+              <mxPoint x="50" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-wMM_qTpo3VhwTvLpSRT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-18" target="-wMM_qTpo3VhwTvLpSRT-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-18" value="是否终止？&lt;br&gt;（覆盖完成or最大步数）" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="820" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wMM_qTpo3VhwTvLpSRT-21" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
