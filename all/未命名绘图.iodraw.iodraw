@@ -28,7 +28,7 @@
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-8" value="Actor根据状态选择动作（优先未覆盖栅格）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="500" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-wMM_qTpo3VhwTvLpSRT-10" value="Actor根据状态选择动作（优先未覆盖栅格）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-wMM_qTpo3VhwTvLpSRT-10" value="环境执行动作，更新覆盖状态与奖励r" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="640" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
