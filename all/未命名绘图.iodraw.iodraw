@@ -47,8 +47,8 @@
         <mxCell id="jDeDzsdC2vD3xVKB-zdp-10" value="A*路径搜索更&lt;br&gt;新路径与状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jDeDzsdC2vD3xVKB-zdp-15" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="jDeDzsdC2vD3xVKB-zdp-15" value="结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
