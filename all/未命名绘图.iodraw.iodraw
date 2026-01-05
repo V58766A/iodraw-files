@@ -28,6 +28,14 @@
         <mxCell id="jDeDzsdC2vD3xVKB-zdp-8" value="贪心选择目标随机未访问栅格" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jDeDzsdC2vD3xVKB-zdp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jDeDzsdC2vD3xVKB-zdp-10" target="jDeDzsdC2vD3xVKB-zdp-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="680" />
+              <mxPoint x="60" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jDeDzsdC2vD3xVKB-zdp-10" value="A*路径搜索更&lt;br&gt;新路径与状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="650" width="120" height="60" as="geometry" />
         </mxCell>
