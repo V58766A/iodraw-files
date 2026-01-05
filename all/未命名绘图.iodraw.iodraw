@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-2" value="初始化环境、栅格地图、智能体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="220" width="270" height="60" as="geometry" />
+          <mxGeometry x="55" y="180" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-6" target="-wMM_qTpo3VhwTvLpSRT-8">
           <mxGeometry relative="1" as="geometry" />
