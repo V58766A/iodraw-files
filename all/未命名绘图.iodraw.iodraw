@@ -22,7 +22,7 @@
         <mxCell id="jDeDzsdC2vD3xVKB-zdp-6" value="是否仍有未覆盖栅格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="340" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jDeDzsdC2vD3xVKB-zdp-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jDeDzsdC2vD3xVKB-zdp-8" value="贪心选择目标随机未访问栅格" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
