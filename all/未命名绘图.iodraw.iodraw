@@ -8,46 +8,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="195" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-2" target="-wMM_qTpo3VhwTvLpSRT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-2" value="初始化环境、栅格地图、智能体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="180" width="270" height="60" as="geometry" />
+          <mxGeometry x="120" y="180" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-6" target="-wMM_qTpo3VhwTvLpSRT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-6" value="获取个智能体局部观测O" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="280" width="270" height="60" as="geometry" />
+          <mxGeometry x="120" y="280" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-8" target="-wMM_qTpo3VhwTvLpSRT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-8" value="Actor根据状态选择动作（优先未覆盖栅格）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="380" width="270" height="60" as="geometry" />
+          <mxGeometry x="120" y="380" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-10" target="-wMM_qTpo3VhwTvLpSRT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-10" value="环境执行动作，更新覆盖状态与奖励r" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="480" width="270" height="60" as="geometry" />
+          <mxGeometry x="120" y="480" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-12" target="-wMM_qTpo3VhwTvLpSRT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-12" value="Critic评估联合状态-动作价值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="590" width="270" height="60" as="geometry" />
+          <mxGeometry x="120" y="590" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-14" target="-wMM_qTpo3VhwTvLpSRT-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-14" value="PPO更新Actor与Critic" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="55" y="700" width="270" height="60" as="geometry" />
+          <mxGeometry x="120" y="700" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-wMM_qTpo3VhwTvLpSRT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-wMM_qTpo3VhwTvLpSRT-18" target="-wMM_qTpo3VhwTvLpSRT-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wMM_qTpo3VhwTvLpSRT-18" value="是否终止？&lt;br&gt;（覆盖完成or最大步数）" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="95" y="820" width="190" height="80" as="geometry" />
+          <mxGeometry x="160" y="820" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
