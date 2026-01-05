@@ -14,33 +14,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-2" value="各智能体感知局部环境，构建航路候选集和" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="220" width="280" height="60" as="geometry" />
+          <mxGeometry x="150" y="180" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJUh7n_6WNUrc15ecdQ3-4" target="HJUh7n_6WNUrc15ecdQ3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-4" value="基于蚁群算法进行信息素更新于协同路径搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="360" width="280" height="60" as="geometry" />
+          <mxGeometry x="150" y="320" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJUh7n_6WNUrc15ecdQ3-6" target="HJUh7n_6WNUrc15ecdQ3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-6" value="按任务阶段生成安全最优协同航路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="500" width="280" height="60" as="geometry" />
+          <mxGeometry x="150" y="460" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HJUh7n_6WNUrc15ecdQ3-8" target="HJUh7n_6WNUrc15ecdQ3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-12" value="满足迭代终止条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HJUh7n_6WNUrc15ecdQ3-11">
           <mxGeometry x="0.125" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="47" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-8" value="智能体执行航行与搜潜动作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="640" width="280" height="60" as="geometry" />
+          <mxGeometry x="150" y="600" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HJUh7n_6WNUrc15ecdQ3-10" value="完成集群协同航路规划任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="780" width="280" height="60" as="geometry" />
+          <mxGeometry x="150" y="740" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
